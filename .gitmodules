@@ -1,0 +1,21 @@
+[submodule "tmux"]
+	path = tmux
+	url = ./tmux
+[submodule "vim"]
+	path = vim
+	url = ./vim
+[submodule "zsh"]
+	path = zsh
+	url = ./zsh
+[submodule "bin"]
+	path = bin
+	url = ./bin
+[submodule "mutt"]
+	path = mutt
+	url = ./mutt
+[submodule "powerline"]
+	path = powerline
+	url = ./powerline
+[submodule "bash"]
+	path = bash
+	url = ./bash
