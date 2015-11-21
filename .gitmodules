@@ -1,21 +1,21 @@
 [submodule "tmux"]
 	path = tmux
-	url = ./tmux
+	url = linode_git:~/repos/tmux.git
 [submodule "vim"]
 	path = vim
-	url = ./vim
+	url = linode_git:~/repos/vim.git
 [submodule "zsh"]
 	path = zsh
-	url = ./zsh
+	url = linode_git:~/repos/zsh.git
 [submodule "bin"]
 	path = bin
-	url = ./bin
+	url = linode_git:~/repos/bin.git
 [submodule "mutt"]
 	path = mutt
-	url = ./mutt
+	url = linode_git:~/repos/mutt.git
 [submodule "powerline"]
 	path = powerline
-	url = ./powerline
+	url = linode_git:~/repos/powerline.git
 [submodule "bash"]
 	path = bash
-	url = ./bash
+	url = linode_git:~/repos/bash.git
