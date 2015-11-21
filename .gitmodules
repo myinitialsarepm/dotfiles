@@ -3,10 +3,10 @@
 	url = linode_git:~/repos/tmux.git
 [submodule "vim"]
 	path = vim
-	url = linode_git:~/repos/vim.git
+	url = https://github.com/myinitialsarepm/vim.git
 [submodule "zsh"]
 	path = zsh
-	url = linode_git:~/repos/zsh.git
+	url = https://github.com/myinitialsarepm/zsh.git
 [submodule "bin"]
 	path = bin
 	url = linode_git:~/repos/bin.git
@@ -15,7 +15,7 @@
 	url = linode_git:~/repos/mutt.git
 [submodule "powerline"]
 	path = powerline
-	url = linode_git:~/repos/powerline.git
+	url = https://github.com/myinitialsarepm/powerline.git
 [submodule "bash"]
 	path = bash
 	url = linode_git:~/repos/bash.git
